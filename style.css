@@ -442,4 +442,74 @@ ul {
     text-align: center;
     line-height: 0.8;
 }
+.footer_wrapper {
+    width: 1008px;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    padding: 50px 0px;
+    margin-top: 0px;
+}
+.progate_img {
+    width: 145px;
+}
+.column1 {
+    width: 315px;
+    padding: 0px 15px;
+}
+.column2 {
+    width: 165px;
+    height: 273px;
+}
+.column3 {
+    width: 165px;
+    height: 171px;
+}
+.column4 {
+    width: 301px;
+    height: 110px;
+    padding: 0px 15px;
+}
+ol {
+    list-style: none;
+    padding: 0px 0px;
+}
+li {
+    line-height: 1.5;
+    padding-top: 8px;
+    
+}
+a {
+    width: 64px;
+    height: 10px;
+    text-decoration: none;
+    color: #848884;
 
+}
+h3 {
+    margin: 0px 0px;
+}
+.apple_img {
+    width: 90px;
+}
+.googleplay_img {
+    width: 100px;
+}
+.fbtnz1 {
+    border-radius: 10%;
+    padding: 0px 0px;
+    height: 34px;
+    border: 1px transparent;
+}
+.fbtnz2 {
+    padding: 0px 0px;
+    height: 33px;
+    border: 1px transparent;
+}
+.column1btnz {
+    margin: 106px 0px 60px 0px;
+}
+footer {
+    background-color: white;
+    font-size: 13px;
+}
