@@ -504,6 +504,7 @@ h3 {
 footer {
     background-color: white;
     font-size: 13px;
+    height: 360px;
 }
 .copyright {
     margin: 0 ;
@@ -512,7 +513,7 @@ footer {
     width: 858px;
     margin: 0 auto;
     justify-content: center;
-    margin-bottom: 80px;
+   
 }
 .copyright-para {
     margin: 0px;
@@ -521,4 +522,31 @@ footer {
     color: #16325c;
     font-size: 10px;
     line-height: 1.5;
+}
+.contact {
+    background-color: #ff577b;
+    font-size: 10px;
+    width: 80px;
+    height: 9px;
+    display: flex;
+    padding: 8px 8px;
+    border-radius: 7%;
+    border: 1px solid;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    gap: 5px;
+}
+.envelope_img {
+    width: 13px;
+    height: 14px;
+    
+}
+.contact_us {
+    width:50px;
+    padding-top: 2px;
+}
+.contact_a {
+    text-decoration: none;
+    color: white;
 }
